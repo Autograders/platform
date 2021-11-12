@@ -1,0 +1,43 @@
+{
+  "name": "@autograders/platform",
+  "version": "0.1.0",
+  "description": "Autograders Platform",
+  "repository": "git@github.com:autograders/platform.git",
+  "private": true,
+  "license": "MIT",
+  "keywords": [
+    "autograders",
+    "garage"
+  ],
+  "contributors": [
+    {
+      "name": "Andrés Castellanos",
+      "email": "andres.cv@galileo.edu",
+      "url": "https://github.com/andrescv"
+    }
+  ],
+  "scripts": {
+    "prepare": "husky install",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint --fix"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^1.7.0",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "framer-motion": "^4",
+    "next": "^12.0.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@autograders/eslint-config-react": "latest",
+    "@commitlint/cli": "^14.1.0",
+    "@commitlint/config-conventional": "^14.1.0",
+    "@types/react": "^17.0.34",
+    "husky": "^7.0.4",
+    "typescript": "^4.4.4"
+  }
+}

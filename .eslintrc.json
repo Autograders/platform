@@ -1,0 +1,3 @@
+{
+  "extends": "@autograders/eslint-config-react"
+}
