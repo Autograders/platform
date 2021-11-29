@@ -36,7 +36,7 @@
     "@autograders/eslint-config-react": "latest",
     "@commitlint/cli": "^14.1.0",
     "@commitlint/config-conventional": "^14.1.0",
-    "@types/react": "^17.0.34",
+    "@types/react": "^17.0.37",
     "husky": "^7.0.4",
     "typescript": "^4.4.4"
   }
