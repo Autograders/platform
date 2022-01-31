@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@autograders/eslint-config-react@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@autograders/eslint-config-react/-/eslint-config-react-1.0.0.tgz#a5f7dfb3e49886deb5dd760c265c5bc1324124b6"
-  integrity sha512-3a0RWV11NQuKz4QYTH5ZuGnZpGhHowmkX+sn0APMjP1U+HkDC4u++JiB0ehALaQRYHBQGNCve0D9ci3qlDD7aA==
+"@autograders/eslint-config-react@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@autograders/eslint-config-react/-/eslint-config-react-1.0.1.tgz#3171b5a3de267f742ab1a7fb4de697a9cd7626e8"
+  integrity sha512-nBKaS1hSSJW4mTnqfSXPnO98QWG+8YUCCYONsyUoqyI6rb9xMEN847j9QOVh6nY14EiNu2LQ9kzV+gPFsy7kcg==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.33.0"
     "@typescript-eslint/parser" "^4.33.0"
